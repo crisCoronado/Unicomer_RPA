@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\DashiBot\\Main_DashiBot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\DashiBot\\Processes\\LogicLayer\\envioDeDashboard","Automation Anywhere\\Bots\\DashiBot\\Processes\\Excel\\lecturaDBGerencias"]}
